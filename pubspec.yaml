@@ -1,6 +1,6 @@
 name: dynamic_height_grid
 description: Lazily load grid view with dynamic height per row
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/Dihardja-Software/flutter_dynamic_height_grid
 
 environment:
